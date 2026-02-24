@@ -22,6 +22,10 @@ A collection of technical diagrams (Mermaid) for reference and documentation—M
        A --> B
    ```
    ````
+   ```mermaid
+   flowchart TD
+       A --> B
+   ```
 3. **Add a short description** and notes below the diagram if helpful.
 4. **Add a row** to the [Diagrams](#diagrams) table above: `| N | Title | [filename.md](filename.md) |`.
 
