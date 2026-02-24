@@ -1,4 +1,21 @@
 {
-  "projectName": "My Diagrams",
-  "projectOwner": "Stella Ray"
+  "projectName": "My-Diagrams",
+  "projectOwner": "CodeByStella",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "CodeByStella",
+      "name": "𝓢𝓽𝓮𝓵𝓵𝓪 𝓡𝓪𝔂",
+      "avatar_url": "https://avatars.githubusercontent.com/u/143504233?v=4",
+      "profile": "http://stellaray777.vercel.app",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
