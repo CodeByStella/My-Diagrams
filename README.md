@@ -2,11 +2,13 @@
 
 A collection of technical diagrams (Mermaid) for reference and documentation—ML pipelines, system design, workflows, and more.
 
+<img src="./thumbnail.png" width="100%" alt="ITstar"/>
+
 ## Diagrams
 
-| #   | Title                | File                                                     |
-| --- | -------------------- | -------------------------------------------------------- |
-| 1   | ML Training Pipeline | [ai-ml-training-pipeline.md](ai-ml-training-pipeline.md) |
+| #   | Title                | File                                                                |
+| --- | -------------------- | ------------------------------------------------------------------- |
+| 1   | ML Training Pipeline | [ai-ml-training-pipeline.md](./diagrams/ai-ml-training-pipeline.md) |
 
 ---
 
