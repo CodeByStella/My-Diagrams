@@ -4,7 +4,7 @@
 flowchart LR
     A[Raw Input<br/>word / item / image / user ID] --> B[Tokenization or Indexing]
     B --> C[Embedding Layer<br/>lookup table]
-    C --> D[Dense Vector<br/>e.g. [0.21, -0.44, 0.98, ...]]
+    C --> D["Dense Vector<br/>e.g. [0.21, -0.44, 0.98, ...]"]
     D --> E[Neural Network / ML Model]
     E --> F[Output<br/>classification / similarity / recommendation]
 
