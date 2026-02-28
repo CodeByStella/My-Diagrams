@@ -8,7 +8,7 @@ flowchart LR
         I3[x₃]
     end
 
-    subgraph hidden[Hidden Layer(s)]
+    subgraph hidden[Hidden Layers]
         H1
         H2
         H3
