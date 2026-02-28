@@ -66,8 +66,9 @@ We use [All Contributors](https://allcontributors.org/) to recognize everyone wh
 <table>
   <tbody>
     <tr>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Codebystella"><img src="https://avatars.githubusercontent.com/u/143504233?v=4?s=100" width="100px;" alt="CodeByStella"/><br /><sub><b>Stella Ray</b></sub></a><br /><a href="#doc-itstar064" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CodeByStella"><img src="https://avatars.githubusercontent.com/u/143504233?v=4?s=100" width="100px;" alt="Stella Ray"/><br /><sub><b>Stella Ray</b></sub></a><br /><a href="#doc-CodeByStella" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/itstar064"><img src="https://avatars.githubusercontent.com/u/183505215?v=4?s=100" width="100px;" alt="ITstar"/><br /><sub><b>ITstar</b></sub></a><br /><a href="#doc-itstar064" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/python217777"><img src="https://avatars.githubusercontent.com/u/133735652?v=4?s=100" width="100px;" alt="O_O"/><br /><sub><b>O_O</b></sub></a><br /><a href="#doc-python217777" title="Documentation">📖</a></td>
     </tr>
   </tbody>
 </table>
