@@ -9,9 +9,10 @@ permissions:
   pages: write
   id-token: write
 
-concurrency:
-  group: "pages"
-  cancel-in-progress: true
+# Optional: cancel in-progress runs when a new push happens (reduces "canceled" annotations)
+# concurrency:
+#   group: "pages"
+#   cancel-in-progress: true
 
 jobs:
   build:
