@@ -1,5 +1,17 @@
 [
   {
+    "id": "ai-coding-agent-pipeline-logic",
+    "file": "ai-coding-agent-pipeline-logic.md",
+    "title": "AI Coding Agent Pipeline (Logic)",
+    "description": "An AI coding agent loops between gathering context, planning, taking actions (read, search, edit, run), and verifying outcomes until the task is done or the agent stops for safety or clarification."
+  },
+  {
+    "id": "AI-engineer-raodmap",
+    "file": "AI-engineer-raodmap.md",
+    "title": "AI Engineer RoadMap",
+    "description": "A phased learning path for AI engineers: from Python and math foundations through LLM theory, API engineering, RAG, agents, fine-tuning, deployment, portfolio, and interview prep."
+  },
+  {
     "id": "ai-ml-training-pipeline",
     "file": "ai-ml-training-pipeline.md",
     "title": "ML Training Pipeline",
@@ -10,5 +22,41 @@
     "file": "how-embeddings-work-ml.md",
     "title": "How Embeddings Work in Machine Learning (Discrete Data → Dense Vectors → Model)",
     "description": "Embeddings convert symbolic or categorical data into dense numeric vectors that machine learning models can understand."
+  },
+  {
+    "id": "llm-finetuning-pipeline",
+    "file": "llm-finetuning-pipeline.md",
+    "title": "LLM Fine-tuning Pipeline",
+    "description": "Fine-tuning adapts a pretrained LLM to a task or domain using a labeled dataset; methods like LoRA train only small adapter weights for efficiency."
+  },
+  {
+    "id": "ml-data-split",
+    "file": "ml-data-split.md",
+    "title": "ML Data Split: Train, Validation, Test",
+    "description": "Split data into train (fit model), validation (tune hyperparameters, early stopping), and test (unseen holdout for final metrics). Never tune on test."
+  },
+  {
+    "id": "neural-network-overview",
+    "file": "neural-network-overview.md",
+    "title": "Neural Network Overview",
+    "description": "A feedforward neural network: input units connect to hidden units (with weights and activations), which connect to output units. Each connection has a learnable weight; training adjusts these weights to fit the data."
+  },
+  {
+    "id": "rag-retrieval-augmented-generation",
+    "file": "rag-retrieval-augmented-generation.md",
+    "title": "RAG: Retrieval Augmented Generation",
+    "description": "RAG improves LLM answers by retrieving relevant documents and adding them to the prompt, so the model can cite sources and reduce hallucination."
+  },
+  {
+    "id": "Receipt-OCR-n-AI-extraction-system",
+    "file": "Receipt-OCR-n-AI-extraction-system.md",
+    "title": "Receipt OCR & AI Extraction System Architecture",
+    "description": "This system processes uploaded receipt images and automatically extracts structured data such as store name, date, total amount, tax, and purchased items. Because receipt formats vary widely, the system combines OCR technology with AI-based language models to interpret the text and convert it into s"
+  },
+  {
+    "id": "transformer-attention-overview",
+    "file": "transformer-attention-overview.md",
+    "title": "Transformer: Attention Overview",
+    "description": "Transformers process sequences in parallel using self-attention to weigh relationships between all tokens, then apply a feed-forward layer per position."
   }
 ]
